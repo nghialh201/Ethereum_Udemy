@@ -1,0 +1,10 @@
+npm install web3
+npm install solc@0.4.17
+
+npm install fs-extra ganache mocha web3 solc@04.17
+npm install @truffle/hdwallet-provider
+
+node run test
+node run dev
+node compile.js
+node deploy.js //run new factory contract
