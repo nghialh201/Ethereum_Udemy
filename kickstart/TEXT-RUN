@@ -1,0 +1,17 @@
+npm install web3
+npm install solc@0.4.17
+
+npm install fs-extra ganache mocha web3 solc@04.17
+npm install @truffle/hdwallet-provider
+npm install next@12 react react-dom
+npm install --save semantic-ui-react
+npm install --save semantic-ui-css
+npm install next-routes --legacy-peer-deps
+
+node run test
+node run dev
+node compile.js
+node deploy.js //run new factory contract
+
+fix: node:internal/modules/cjs/loader:1080 throw err;
+npm install -> npm start -> node ...
