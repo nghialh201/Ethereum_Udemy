@@ -1,5 +1,7 @@
-npm install web3
+// npm install web3
+npm install web3@1.10.2
 npm install solc@0.4.17
+
 
 npm install fs-extra ganache mocha web3 solc@04.17
 npm install @truffle/hdwallet-provider

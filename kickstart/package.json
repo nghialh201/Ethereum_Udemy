@@ -21,6 +21,6 @@
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.4",
     "solc": "^0.4.17",
-    "web3": "^4.2.1"
+    "web3": "^1.10.2"
   }
 }
