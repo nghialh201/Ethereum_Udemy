@@ -17,15 +17,7 @@ class CampaignIndex extends Component {
       return {
         header: address,
         description: (
-          <Link
-            // route={"/campaigns/${address}"}
-            route={"/campaigns/" + address}
-            // as={`/campaigns/${address}`}
-            // href={{
-            //   pathname: `/campaigns/show/`,
-            //   query: { address },
-            // }}
-          >
+          <Link route={"/campaigns/" + address}>
             <a>View detail</a>
           </Link>
         ),
